@@ -32,6 +32,7 @@
   <module name="SuppressionFilter">
     <property name="file" value="https://raw.githubusercontent.com/trekleetravel/checkstyle/main/src/main/resources/suppressions.xml" />
   </module>
+  <module name="SuppressWarningsFilter" />
 
   <!-- Checks for whitespace                               -->
   <!-- See http://checkstyle.org/config_whitespace.html -->
