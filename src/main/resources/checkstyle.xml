@@ -30,7 +30,7 @@
   </module>
   <!-- https://checkstyle.org/config_filters.html#SuppressionFilter -->
   <module name="SuppressionFilter">
-    <property name="file" value="suppressions.xml" />
+    <property name="file" value="https://raw.githubusercontent.com/trekleetravel/checkstyle/main/src/main/resources/suppressions.xml" />
   </module>
 
   <!-- Checks for whitespace                               -->
