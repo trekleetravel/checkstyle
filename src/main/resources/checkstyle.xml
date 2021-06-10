@@ -29,9 +29,9 @@
     <property name="fileNamePattern" value="module\-info\.java$"/>
   </module>
   <!-- https://checkstyle.org/config_filters.html#SuppressionFilter -->
-  <module name="SuppressionFilter">
-    <property name="file" value="https://raw.githubusercontent.com/trekleetravel/checkstyle/main/src/main/resources/suppressions.xml" />
-  </module>
+<!--  <module name="SuppressionFilter">-->
+<!--    <property name="file" value="https://raw.githubusercontent.com/trekleetravel/checkstyle/main/src/main/resources/suppressions.xml" />-->
+<!--  </module>-->
   <module name="SuppressWarningsFilter" />
 
   <!-- Checks for whitespace                               -->
